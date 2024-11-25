@@ -47,16 +47,18 @@ We hope we will have some productive days together :-)
 | Time        | Topic                                           |
 |:------------|:------------------------------------------------|
 | *Monday*    |                                                 |
-| 13.00-14.00 | Lunch                                           |
+| 13.00-14.00 | *Lunch*                                         |
 | 14.00-17.00 | Datatypes in R and basic syntax                 |
 | *Tuesday*   |                                                 |
-| 09.00-13.00 | Introduction to survey sampling                 |  
+| 09.00-10.45 | Introduction to survey sampling with R          |  
+| 10.45-11.15 | *Break*                                         |
+| 11.15-13.00 | Datatypes *(continued)*                         |
 | 13.00-14.00 | *Lunch*                                         |
-| 14.00-16.00 | Stratification                                  |
+| 14.00-16.00 | Data manipulation and tidyverse                 |
 | *Wednesday* |                                                 |
-| 09.00-13.00 | Allocation and basic estimation                 |  
+| 09.00-13.00 | Stratification and allocation                   |  
 | 13.00-14.00 | *Lunch*                                         |
-| 14.00-16.00 | (Continued)                                     |
+| 14.00-16.00 | *(Continued)*                                   |
 | *Thursday*  |                                                 |
 | 09.00-13.00 | Calibration for non-response                    |  
 | 13.00-14.00 | *Lunch*                                         |
