@@ -19,9 +19,10 @@ output:
 * Data manipulation with tidyverse
 * Aggregating and summarizing
 * Data visualization
+* survey sampling
 
 ## Info
-* All up-to-date info and material on webpage: (https://peterstoltze.github.io/R_BiH_2023/)
+* All up-to-date info and material on webpage: (https://peterstoltze.github.io/R_Accra_2024/)
 * Two sessions per day
 * Lecture - Exercise - Repeat
 
@@ -29,12 +30,15 @@ output:
 
 | Day       | Time        | Topic                                           |
 |:----------|:------------|:------------------------------------------------|
-| Monday    | 10.00-12.00 | Introduction to R and RStudio                   |
-|           | 13.00-15.30 | Datatypes in R and basic syntax                 |
-| Tuesday   | 09.00-11.30 | Reading external data into R                    |
-|           | 13.00-15.30 | Data manipulation and tidyverse                 |
-| Wednesday | 09.00-11.30 | Your own project                                |
-|           | 13.00-15.30 | Your own project (continued)                    |
+| Monday    | 14.00-17.00 | Introduction to R and RStudio                   |
+|           |             | Datatypes in R and basic syntax                 |
+| Tuesday   | 09.00-13.00 | Introduction to survey sampling                 |
+|           | 14.00-16.00 | Stratification                                  |
+| wednesday | 09.00-13.00 | Allocation and basic estimation                 |
+|           | 14.00-16.00 | Continued                                       |
+| Thursday  | 09.00-13.00 | Calibration for non-response                    |
+|           | 14.00-16.00 | Making reports                                  |
+| Friday    | 09.00-13.00 | Wrapping up                                     |
 
 ## Lecture A - Introduction to R and Rstudio
 
