@@ -19,11 +19,14 @@ output:
 * Data manipulation with tidyverse
 * Aggregating and summarizing
 * Data visualization
-* survey sampling
+
+We will try to combine these topics with a focus on survey sampling and estimation.
 
 ## Info
 * All up-to-date info and material on webpage: (https://peterstoltze.github.io/R_Accra_2024/)
-* Two sessions per day
+* Two sessions per day (except Monday and Friday)
+   + 09.00-13.00 (with break 10.45-11.15)
+   + 14.00-16.00
 * Lecture - Exercise - Repeat
 
 ## Program
