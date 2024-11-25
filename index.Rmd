@@ -50,27 +50,19 @@ We hope we will have some productive days together :-)
 | 13.00-14.00 | Lunch                                           |
 | 14.00-17.00 | Datatypes in R and basic syntax                 |
 | *Tuesday*   |                                                 |
-| 09.00-10.45 |                                                 |
-| 10.45-11.15 | *Break*                                         |
-| 11.15-13.00 |                                                 |  
+| 09.00-13.00 | Introduction to survey sampling                 |  
 | 13.00-14.00 | *Lunch*                                         |
-| 14.00-16.00 |                                                 |
+| 14.00-16.00 | Stratification                                  |
 | *Wednesday* |                                                 |
-| 09.00-10.45 |                                                 |
-| 10.45-11.15 | *Break*                                         |
-| 11.15-13.00 |                                                 |  
+| 09.00-13.00 | Allocation and basic estimation                 |  
 | 13.00-14.00 | *Lunch*                                         |
-| 14.00-16.00 |                                                 |
+| 14.00-16.00 | (Continued)                                     |
 | *Thursday*  |                                                 |
-| 09.00-10.45 |                                                 |
-| 10.45-11.15 | *Break*                                         |
-| 11.15-13.00 |                                                 |  
+| 09.00-13.00 | Calibration for non-response                    |  
 | 13.00-14.00 | *Lunch*                                         |
-| 14.00-16.00 |                                                 |
+| 14.00-16.00 | Making reports                                  |
 | *Friday*    |                                                 |
-| 09.00-10.45 |                                                 |
-| 10.45-11.15 | *Break*                                         |
-| 11.15-13.00 |                                                 |  
+| 09.00-13.00 | Wrapping up                                     |  
 | 13.00-14.00 | *Lunch*                                         |
 
 
