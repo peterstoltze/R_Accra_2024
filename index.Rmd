@@ -52,13 +52,15 @@ We hope we will have some productive days together :-)
 | *Tuesday*   |                                                 |
 | 09.00-10.45 | Introduction to survey sampling with R          |  
 | 10.45-11.15 | *Break*                                         |
-| 11.15-13.00 | Datatypes *(continued)*                         |
+| 11.15-13.00 | Datatypes *(lecture continued)*                 |
 | 13.00-14.00 | *Lunch*                                         |
-| 14.00-16.00 | Data manipulation and tidyverse                 |
+| 14.00-16.00 | Datatypes *(practicals)*                        |
 | *Wednesday* |                                                 |
-| 09.00-13.00 | Stratification and allocation                   |  
+| 09.00-13.00 | Packages and reading external data              |
+| 10.45-11.15 | *Break*                                         |
+| 11.15-13.00 | Data manipulation (pipes and dplyr)             |  
 | 13.00-14.00 | *Lunch*                                         |
-| 14.00-16.00 | *(Continued)*                                   |
+| 14.00-16.00 | Data manipulation *(practicals)*                |
 | *Thursday*  |                                                 |
 | 09.00-13.00 | Calibration for non-response                    |  
 | 13.00-14.00 | *Lunch*                                         |
@@ -149,11 +151,6 @@ Lecture presentation and exercises will be made available here. Download the fil
 - Part C: Introduction to sampling with R
     - [Lecture](Contents/Part C - Sampling intro/Sampling_Intro.html){target="_blank"}
 
-- Part D: Data manipulation and tidyverse
-    - [Lecture](Contents/Part D - Wrangling/Lecture_D.html){target="_blank"}
-    - [Practical 1](Contents/Part D - Wrangling/Practical_D1.html){target="_blank"}
-    - [Practical 2](Contents/Part D - Wrangling/Practical_D2.html){target="_blank"}
-
 # Wednesday
 
 ### Materials for Wednesday
@@ -162,10 +159,17 @@ We adapt the course as we go. To ensure that you work with the latest iteration 
 
 Lecture presentation and exercises will be made available here. Download the files and put them in their own directory.
 
-<!-- - Part C: Packages and reading external data -->
-<!-- - [Lecture C](Contents/Part C - External data/Lecture_C.html){target="_blank"} -->
-<!-- - [Practical C](Contents/Part C - External data/Practical_C.html){target="_blank"} -->
-<!-- - [Practical C (solutions)](Contents/Part C - External data/Practical_C_sol.html){target="_blank"} -->
+- Part D: Packages and reading external data
+    - [Lecture](Contents/Part D - External data/Lecture_D.html){target="_blank"}
+    - [Practical](Contents/Part D - External data/Practical_D.html){target="_blank"}
+    - [Practical (solutions)](Contents/Part D - External data/Practical_D_sol.html){target="_blank"}
+
+- Part E: Data manipulation and tidyverse
+    - [Lecture](Contents/Part E - Wrangling/Lecture_E.html){target="_blank"}
+    - [Practical 1](Contents/Part E - Wrangling/Practical_E1.html){target="_blank"}
+    - [Practical 2](Contents/Part E - Wrangling/Practical_E2.html){target="_blank"}
+
+Lectures and practicals are in `html` format and open in a new browser pane.
 
 
 # Thursday
