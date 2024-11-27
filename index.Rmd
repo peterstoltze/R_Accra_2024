@@ -56,7 +56,7 @@ We hope we will have some productive days together :-)
 | 13.00-14.00 | *Lunch*                                         |
 | 14.00-16.00 | Datatypes *(practicals)*                        |
 | *Wednesday* |                                                 |
-| 09.00-13.00 | Packages and reading external data              |
+| 09.00-10.45 | Packages and reading external data              |
 | 10.45-11.15 | *Break*                                         |
 | 11.15-13.00 | Data manipulation (pipes and dplyr)             |  
 | 13.00-14.00 | *Lunch*                                         |
