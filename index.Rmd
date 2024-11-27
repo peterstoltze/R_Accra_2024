@@ -47,28 +47,21 @@ We hope we will have some productive days together :-)
 | Time        | Topic                                           |
 |:------------|:------------------------------------------------|
 | *Monday*    |                                                 |
-| 13.00-14.00 | *Lunch*                                         |
 | 14.00-17.00 | Datatypes in R and basic syntax                 |
 | *Tuesday*   |                                                 |
 | 09.00-10.45 | Introduction to survey sampling with R          |  
-| 10.45-11.15 | *Break*                                         |
 | 11.15-13.00 | Datatypes *(lecture continued)*                 |
-| 13.00-14.00 | *Lunch*                                         |
 | 14.00-16.00 | Datatypes *(practicals)*                        |
 | *Wednesday* |                                                 |
 | 09.00-10.45 | Packages and reading external data              |
-| 10.45-11.15 | *Break*                                         |
 | 11.15-13.00 | Data manipulation (pipes and dplyr)             |  
-| 13.00-14.00 | *Lunch*                                         |
 | 14.00-16.00 | Data manipulation *(practicals)*                |
 | *Thursday*  |                                                 |
-| 09.00-13.00 | Calibration for non-response                    |  
-| 13.00-14.00 | *Lunch*                                         |
-| 14.00-16.00 | Making reports                                  |
+| 09.00-10.45 | Data manipulation *(continued)*                 |
+| 11.15-13.00 | Calibration for non-response                    |  
+| 14.00-16.00 | Summary statistics                              |
 | *Friday*    |                                                 |
-| 09.00-13.00 | Wrapping up                                     |  
-| 13.00-14.00 | *Lunch*                                         |
-
+| 09.00-12.00 | Wrapping up                                     |  
 
 
 # How to prepare
@@ -179,6 +172,15 @@ Lectures and practicals are in `html` format and open in a new browser pane.
 We adapt the course as we go. To ensure that you work with the latest iteration of the course materials, I advice all course participants to access the materials online at [peterstoltze.github.io/R_Accra_2024](https://peterstoltze.github.io/R_Accra_2024/).
 
 Lecture presentation and exercises will be made available here. Download the files and put them in their own directory.
+
+- Part F: Introduction to calibration
+    - [Lecture](Contents/Part F - Calibration/calibration.html){target="_blank"}
+
+- Part G: Summary statistics
+    - [Lecture](Contents/Part G - Summary stats/Lecture_G.html){target="_blank"}
+    - [Practical](Contents/Part G - Summary stats/Practical_G.html){target="_blank"}
+    - [income.data](Contents/Part G - Summary stats/income.data){target="_blank"}
+
 
 # Friday
 
