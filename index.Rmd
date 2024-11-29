@@ -196,6 +196,8 @@ Lecture presentation and exercises will be made available here. Download the fil
 
 - Part H: Introduction to calibration
     - [Lecture](Contents/Part H - Calibration/calibration.html){target="_blank"}
+    - [Current Best Methods (CBM) at Statistics Sweden](https://www.scb.se/dokumentation/statistiska-metoder/current-best-methods-cbm-och-handbocker/){target="_blank"}
+    - [CBM -> Estimation in the presence of nonresponse and frame imperfections](http://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/ov9999_2000i02_br_x97%C3%B6p0103.pdf){target="_blank"}
 
 
 # Further studies
