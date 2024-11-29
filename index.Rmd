@@ -195,7 +195,7 @@ We adapt the course as we go. To ensure that you work with the latest iteration 
 Lecture presentation and exercises will be made available here. Download the files and put them in their own directory.
 
 - Part H: Introduction to calibration
-    - [Lecture](Contents/Part F - Calibration/calibration.html){target="_blank"}
+    - [Lecture](Contents/Part H - Calibration/calibration.html){target="_blank"}
 
 
 # Further studies
