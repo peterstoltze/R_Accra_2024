@@ -174,8 +174,11 @@ We adapt the course as we go. To ensure that you work with the latest iteration 
 
 Lecture presentation and exercises will be made available here. Download the files and put them in their own directory.
 
-- Part F: Introduction to calibration
-    - [Lecture](Contents/Part F - Calibration/calibration.html){target="_blank"}
+- Part F: Demonstration on map making
+    - [ibes_read_data.R](Contents/Part F - Maps/ibes_read_data.R){target="_blank"}
+    - [ghana_map.R](Contents/Part F - Maps/ghana_map.R){target="_blank"}
+    - [ghana_map2.R](Contents/Part F - Maps/ghana_map2.R){target="_blank"}
+    - [tonys_map_20241128.pdf](Contents/Part F - Maps/tonys_map_20241128.pdf){target="_blank"}
 
 - Part G: Summary statistics
     - [Lecture](Contents/Part G - Summary stats/Lecture_G.html){target="_blank"}
@@ -191,6 +194,8 @@ We adapt the course as we go. To ensure that you work with the latest iteration 
 
 Lecture presentation and exercises will be made available here. Download the files and put them in their own directory.
 
+- Part H: Introduction to calibration
+    - [Lecture](Contents/Part F - Calibration/calibration.html){target="_blank"}
 
 
 # Further studies
